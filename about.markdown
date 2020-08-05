@@ -4,16 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-just trying some **stuff**
+### Short Bio
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Rafael Van Belle is a PhD student at the Research Institute for Information Systems Engineering ([LIRIS](https://feb.kuleuven.be/research/decision-sciences-and-information-management/liris/liris)) at [KU Leuven](https://www.kuleuven.be/kuleuven/), Belgium and a PhD fellow at the [Research Foundation Flanders (FWO)](https://www.fwo.be/en/). His main research interests are network analysis and [graph representation learning](https://github.com/thunlp/NRLPapers). He is particularly interested in applications of network analysis, such as fraud detection. 
+Rafael studied Business and Information Systems Engineering at KU Leuven and obtained a Master's degree in 2018. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Contact me
 
+[rafael.vanbelle[at]kuleuven.be](mailto:rafael.vanbelle@kuleuven.be)
 
-[jekyll-organization]: https://github.com/jekyll
