@@ -34,6 +34,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+include:
+  - projects/
 header_pages:
   - projects/NETSCI_2020.md
 
